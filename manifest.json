@@ -7,7 +7,7 @@
   "theme_color": "#111111",
   "icons": [
     {
-      "src": "/musica/icon-music.png",
+      "src": "/musica/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
